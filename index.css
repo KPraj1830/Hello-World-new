@@ -1,0 +1,19 @@
+
+ul{
+    display:flex;
+    flex-direction:row;
+    padding:0;
+    margin:0;
+    list-style-type:none;
+    overflow:hidden;
+    background-color:black;
+    justify-content:flex-end;
+    }
+    
+    li a{
+    display:block;
+    text-decoration:none;
+    color:white;
+    padding:16px;
+    text-align:center;
+    }
